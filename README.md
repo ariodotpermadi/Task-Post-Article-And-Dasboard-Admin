@@ -68,5 +68,6 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 How to running this app ? 
 1. type command npm run dev for running bootstrap/vite (front End)
 2. type command php artisan serve for backend.
+3. Need Database.
 
-Note : You need to Database for running this app properly. you can ask me at ario.permadi@outlook.com
+
